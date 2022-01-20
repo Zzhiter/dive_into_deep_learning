@@ -5,6 +5,8 @@ import torch
 from d2l import torch as d2l
 from torch import nn
 
+
+#这里需要加上自己的本地目录
 sys.path.append('D:\\pythonspace\\d2l\\d2lutil')  # 加入路径，添加目录
 import common
 

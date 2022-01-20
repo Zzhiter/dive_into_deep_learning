@@ -33,3 +33,4 @@ y.sum().backward()
 d2l.plot(x.detach(), x.grad, 'x', 'grad of tanh', figsize=(5, 2.5))
 d2l.plt.show();
 
+#添加我的第一个注释
